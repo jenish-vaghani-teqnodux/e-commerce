@@ -22,7 +22,7 @@ const Navbar = () => {
   const { items: wishlistItems } = useWishlist();
   const { theme, toggleTheme } = useTheme();
   const location = useLocation();
-
+  
   useEffect(() => {
     const handleScroll = () => setIsScrolled(window.scrollY > 20);
     window.addEventListener('scroll', handleScroll);

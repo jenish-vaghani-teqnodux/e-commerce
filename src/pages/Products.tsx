@@ -24,6 +24,8 @@ const sortOptions = [
 
 const Products = () => {
   const [searchParams, setSearchParams] = useSearchParams();
+  console.log('searchParams', searchParams);
+  
   const [isFilterOpen, setIsFilterOpen] = useState(false);
   const [viewMode, setViewMode] = useState<'grid' | 'list'>('grid');
   
