@@ -17,7 +17,12 @@
         "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=600&q=80"
       ],
       "description": "Experience unparalleled audio clarity with our flagship wireless headphones. Featuring active noise cancellation, 40-hour battery life, and premium leather cushions for all-day comfort.",
-      "features": ["Active Noise Cancellation", "40-Hour Battery", "Bluetooth 5.2", "Premium Leather"],
+      "features": [
+        "Active Noise Cancellation",
+        "40-Hour Battery",
+        "Bluetooth 5.2",
+        "Premium Leather"
+      ],
       "inStock": true,
       "badge": "Best Seller"
     },
@@ -37,7 +42,12 @@
         "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=600&q=80"
       ],
       "description": "The ultimate smartwatch for the modern professional. Titanium case, sapphire crystal display, and advanced health monitoring.",
-      "features": ["Titanium Case", "Sapphire Display", "Health Monitoring", "5ATM Water Resistant"],
+      "features": [
+        "Titanium Case",
+        "Sapphire Display",
+        "Health Monitoring",
+        "5ATM Water Resistant"
+      ],
       "inStock": true,
       "badge": "New"
     },
@@ -58,7 +68,12 @@
         "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=600&q=80"
       ],
       "description": "Engineered for peak performance with carbon-fiber plate technology and responsive foam cushioning.",
-      "features": ["Carbon Fiber Plate", "Responsive Foam", "Breathable Mesh", "Lightweight Design"],
+      "features": [
+        "Carbon Fiber Plate",
+        "Responsive Foam",
+        "Breathable Mesh",
+        "Lightweight Design"
+      ],
       "inStock": true,
       "badge": "Popular"
     },
@@ -78,7 +93,12 @@
         "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=600&q=80"
       ],
       "description": "Premium waterproof backpack with dedicated laptop compartment, USB charging port, and ergonomic design.",
-      "features": ["Waterproof Material", "USB Charging Port", "Laptop Compartment", "Ergonomic Design"],
+      "features": [
+        "Waterproof Material",
+        "USB Charging Port",
+        "Laptop Compartment",
+        "Ergonomic Design"
+      ],
       "inStock": true,
       "badge": null
     },
@@ -98,7 +118,12 @@
         "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&q=80"
       ],
       "description": "Professional mirrorless camera with 61MP full-frame sensor, 8K video, and industry-leading autofocus.",
-      "features": ["61MP Sensor", "8K Video", "Fast Autofocus", "Weather Sealed"],
+      "features": [
+        "61MP Sensor",
+        "8K Video",
+        "Fast Autofocus",
+        "Weather Sealed"
+      ],
       "inStock": true,
       "badge": "Premium"
     },
@@ -118,7 +143,12 @@
         "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=600&q=80"
       ],
       "description": "An exquisite blend of rare botanicals and precious woods. A signature scent that lingers beautifully.",
-      "features": ["Long-lasting", "Rare Ingredients", "Elegant Bottle", "Gift Ready"],
+      "features": [
+        "Long-lasting",
+        "Rare Ingredients",
+        "Elegant Bottle",
+        "Gift Ready"
+      ],
       "inStock": true,
       "badge": "Exclusive"
     },
@@ -137,7 +167,12 @@
         "https://images.unsplash.com/photo-1627123424574-724758594e93?w=600&q=80"
       ],
       "description": "Handcrafted from Italian full-grain leather with RFID protection and minimalist design.",
-      "features": ["Italian Leather", "RFID Protection", "Slim Design", "Handcrafted"],
+      "features": [
+        "Italian Leather",
+        "RFID Protection",
+        "Slim Design",
+        "Handcrafted"
+      ],
       "inStock": true,
       "badge": null
     },
@@ -157,7 +192,12 @@
         "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&q=80"
       ],
       "description": "Premium titanium frame with polarized lenses and anti-reflective coating for crystal-clear vision.",
-      "features": ["Titanium Frame", "Polarized Lenses", "UV Protection", "Lightweight"],
+      "features": [
+        "Titanium Frame",
+        "Polarized Lenses",
+        "UV Protection",
+        "Lightweight"
+      ],
       "inStock": true,
       "badge": "Trending"
     },
@@ -176,7 +216,12 @@
         "https://images.unsplash.com/photo-1589003077984-894e133dabab?w=600&q=80"
       ],
       "description": "Immersive 360° sound with voice control, multi-room audio support, and premium fabric finish.",
-      "features": ["360° Sound", "Voice Control", "Multi-room Audio", "Premium Design"],
+      "features": [
+        "360° Sound",
+        "Voice Control",
+        "Multi-room Audio",
+        "Premium Design"
+      ],
       "inStock": true,
       "badge": null
     },
@@ -195,7 +240,12 @@
         "https://images.unsplash.com/photo-1578500494198-246f612d3b3d?w=600&q=80"
       ],
       "description": "Hand-thrown ceramic vase with reactive glaze finish. Each piece is unique.",
-      "features": ["Handmade", "Reactive Glaze", "Unique Finish", "Artisan Crafted"],
+      "features": [
+        "Handmade",
+        "Reactive Glaze",
+        "Unique Finish",
+        "Artisan Crafted"
+      ],
       "inStock": true,
       "badge": "Artisan"
     },
@@ -214,7 +264,12 @@
         "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=600&q=80"
       ],
       "description": "Next-gen gaming with 4K 120fps, ray tracing, and lightning-fast SSD loading.",
-      "features": ["4K 120fps", "Ray Tracing", "1TB SSD", "Backward Compatible"],
+      "features": [
+        "4K 120fps",
+        "Ray Tracing",
+        "1TB SSD",
+        "Backward Compatible"
+      ],
       "inStock": false,
       "badge": "Hot"
     },
@@ -233,9 +288,883 @@
         "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?w=600&q=80"
       ],
       "description": "Luxuriously soft blend of silk and cashmere with hand-rolled edges.",
-      "features": ["Silk-Cashmere Blend", "Hand-rolled Edges", "Premium Quality", "Gift Box Included"],
+      "features": [
+        "Silk-Cashmere Blend",
+        "Hand-rolled Edges",
+        "Premium Quality",
+        "Gift Box Included"
+      ],
       "inStock": true,
       "badge": null
+    },
+    {
+      "id": 13,
+      "name": "Orbit Wireless Charging Pad",
+      "brand": "VoltEdge",
+      "price": 79.99,
+      "originalPrice": 99.99,
+      "category": "Electronics",
+      "subcategory": "Accessories",
+      "rating": 4.6,
+      "reviews": 621,
+      "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=600&q=80",
+        "https://images.unsplash.com/photo-1603539947678-cd3954ed5156?w=600&q=80"
+      ],
+      "description": "Fast wireless charging pad with intelligent temperature control and sleek aluminum design.",
+      "features": [
+        "15W Fast Charging",
+        "Overheat Protection",
+        "Slim Design",
+        "LED Indicator"
+      ],
+      "inStock": true,
+      "badge": "Trending"
+    },
+    {
+      "id": 14,
+      "name": "Glide Ergonomic Office Chair",
+      "brand": "WorkEase",
+      "price": 329.99,
+      "originalPrice": 399.99,
+      "category": "Home",
+      "subcategory": "Furniture",
+      "rating": 4.7,
+      "reviews": 812,
+      "image": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=600&q=80",
+        "https://images.unsplash.com/photo-1598300056393-4aac492f4344?w=600&q=80"
+      ],
+      "description": "Ergonomic office chair with breathable mesh back, adjustable lumbar support, and smooth rolling wheels.",
+      "features": [
+        "Adjustable Lumbar",
+        "Breathable Mesh",
+        "360° Rotation",
+        "Height Adjustable"
+      ],
+      "inStock": true,
+      "badge": "Recommended"
+    },
+    {
+      "id": 15,
+      "name": "Pulse Fitness Smart Band",
+      "brand": "FitCore",
+      "price": 119.99,
+      "originalPrice": 149.99,
+      "category": "Electronics",
+      "subcategory": "Wearables",
+      "rating": 4.5,
+      "reviews": 1432,
+      "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=600&q=80"
+      ],
+      "description": "Track your fitness goals with heart rate monitoring, sleep tracking, and a vibrant AMOLED display.",
+      "features": [
+        "Heart Rate Monitor",
+        "Sleep Tracking",
+        "AMOLED Display",
+        "7-Day Battery"
+      ],
+      "inStock": true,
+      "badge": "Fitness"
+    },
+    {
+      "id": 16,
+      "name": "Aurora LED Desk Lamp",
+      "brand": "BrightNest",
+      "price": 69.99,
+      "originalPrice": 89.99,
+      "category": "Home",
+      "subcategory": "Lighting",
+      "rating": 4.6,
+      "reviews": 378,
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=600&q=80"
+      ],
+      "description": "Modern LED desk lamp with touch controls, adjustable brightness, and eye-care lighting technology.",
+      "features": [
+        "Touch Control",
+        "Adjustable Brightness",
+        "Eye-Care Light",
+        "Energy Efficient"
+      ],
+      "inStock": true,
+      "badge": "New"
+    },
+    {
+      "id": 17,
+      "name": "Atlas Travel Duffel Bag",
+      "brand": "NomadGear",
+      "price": 139.99,
+      "originalPrice": 179.99,
+      "category": "Accessories",
+      "subcategory": "Bags",
+      "rating": 4.7,
+      "reviews": 590,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&q=80"
+      ],
+      "description": "Durable travel duffel bag with water-resistant fabric, spacious compartments, and reinforced handles.",
+      "features": [
+        "Water Resistant",
+        "Large Capacity",
+        "Reinforced Handles",
+        "Travel Friendly"
+      ],
+      "inStock": true,
+      "badge": "Travel"
+    },
+    {
+      "id": 18,
+      "name": "AeroDrone X4 Camera Drone",
+      "brand": "SkyVision",
+      "price": 899.99,
+      "originalPrice": 999.99,
+      "category": "Electronics",
+      "subcategory": "Drones",
+      "rating": 4.7,
+      "reviews": 642,
+      "image": "https://images.unsplash.com/photo-1508614589041-895b88991e3e?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1508614589041-895b88991e3e?w=600&q=80"
+      ],
+      "description": "Professional drone with 4K stabilized camera, intelligent flight modes, and 35-minute flight time.",
+      "features": [
+        "4K Camera",
+        "GPS Stabilization",
+        "35 Min Flight",
+        "Obstacle Detection"
+      ],
+      "inStock": true,
+      "badge": "Pro"
+    },
+    {
+      "id": 19,
+      "name": "Hydra Stainless Steel Water Bottle",
+      "brand": "PureSip",
+      "price": 39.99,
+      "originalPrice": 49.99,
+      "category": "Lifestyle",
+      "subcategory": "Drinkware",
+      "rating": 4.6,
+      "reviews": 1450,
+      "image": "https://images.unsplash.com/photo-1526406915894-7bcd65f60845?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1526406915894-7bcd65f60845?w=600&q=80"
+      ],
+      "description": "Double-wall insulated bottle keeping drinks cold for 24 hours and hot for 12 hours.",
+      "features": ["24h Cold", "12h Hot", "Leakproof", "Eco Friendly"],
+      "inStock": true,
+      "badge": "Eco"
+    },
+    {
+      "id": 20,
+      "name": "Nimbus Mechanical Keyboard",
+      "brand": "KeyForge",
+      "price": 189.99,
+      "originalPrice": 229.99,
+      "category": "Electronics",
+      "subcategory": "Computer Accessories",
+      "rating": 4.8,
+      "reviews": 981,
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600&q=80"
+      ],
+      "description": "RGB mechanical keyboard with hot-swappable switches and premium aluminum body.",
+      "features": [
+        "RGB Lighting",
+        "Hot-Swappable",
+        "Aluminum Frame",
+        "Custom Keycaps"
+      ],
+      "inStock": true,
+      "badge": "Gamer Choice"
+    },
+    {
+      "id": 21,
+      "name": "Vertex UltraWide Monitor",
+      "brand": "DisplayCore",
+      "price": 699.99,
+      "originalPrice": 799.99,
+      "category": "Electronics",
+      "subcategory": "Monitors",
+      "rating": 4.7,
+      "reviews": 544,
+      "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=600&q=80"
+      ],
+      "description": "34-inch curved ultrawide monitor with 144Hz refresh rate and stunning color accuracy.",
+      "features": ["34 Inch Curved", "144Hz", "UltraWide", "HDR Support"],
+      "inStock": true,
+      "badge": "Creator"
+    },
+    {
+      "id": 22,
+      "name": "UrbanFlex Denim Jacket",
+      "brand": "StreetMode",
+      "price": 129.99,
+      "originalPrice": 159.99,
+      "category": "Fashion",
+      "subcategory": "Jackets",
+      "rating": 4.5,
+      "reviews": 323,
+      "image": "https://images.unsplash.com/photo-1520975916090-3105956dac38?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1520975916090-3105956dac38?w=600&q=80"
+      ],
+      "description": "Stylish stretch denim jacket with modern slim fit and durable stitching.",
+      "features": [
+        "Stretch Denim",
+        "Slim Fit",
+        "Durable Stitching",
+        "Classic Design"
+      ],
+      "inStock": true,
+      "badge": "Style"
+    },
+    {
+      "id": 23,
+      "name": "Breeze Air Purifier",
+      "brand": "PureAir",
+      "price": 249.99,
+      "originalPrice": 299.99,
+      "category": "Home",
+      "subcategory": "Appliances",
+      "rating": 4.6,
+      "reviews": 410,
+      "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=600&q=80"
+      ],
+      "description": "Smart HEPA air purifier that removes 99.97% of airborne particles and allergens.",
+      "features": [
+        "HEPA Filter",
+        "Smart Control",
+        "Quiet Mode",
+        "Allergy Friendly"
+      ],
+      "inStock": true,
+      "badge": "Healthy Living"
+    },
+    {
+      "id": 24,
+      "name": "Pulse Wireless Earbuds",
+      "brand": "AudioLux",
+      "price": 149.99,
+      "originalPrice": 199.99,
+      "category": "Electronics",
+      "subcategory": "Audio",
+      "rating": 4.7,
+      "reviews": 1732,
+      "image": "/images/pulse-wireless-earbuds-1.png",
+      "images": [
+        "/images/pulse-wireless-earbuds-1.png",
+        "/images/pulse-wireless-earbuds-2.png"
+      ],
+      "description": "Compact wireless earbuds with noise cancellation and immersive bass.",
+      "features": [
+        "Noise Cancellation",
+        "Touch Control",
+        "Fast Charging",
+        "Water Resistant"
+      ],
+      "inStock": true,
+      "badge": "Top Rated"
+    },
+    {
+      "id": 25,
+      "name": "Terra Indoor Plant Set",
+      "brand": "GreenNest",
+      "price": 79.99,
+      "originalPrice": null,
+      "category": "Home",
+      "subcategory": "Plants",
+      "rating": 4.4,
+      "reviews": 208,
+      "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?w=600&q=80"
+      ],
+      "description": "Beautiful indoor plant collection that enhances air quality and decor.",
+      "features": [
+        "Low Maintenance",
+        "Air Purifying",
+        "Decorative Pots",
+        "Natural"
+      ],
+      "inStock": true,
+      "badge": "Nature"
+    },
+    {
+      "id": 26,
+      "name": "ForgeCast Iron Skillet",
+      "brand": "ChefMaster",
+      "price": 69.99,
+      "originalPrice": 89.99,
+      "category": "Home",
+      "subcategory": "Kitchen",
+      "rating": 4.8,
+      "reviews": 1103,
+      "image": "/images/forgeCast-iron-skillet-1.png",
+      "images": [
+        "/images/forgeCast-iron-skillet-1.png",
+        "/images/forgeCast-iron-skillet-2.png"
+      ],
+      "description": "Pre-seasoned cast iron skillet ideal for searing, frying, and baking.",
+      "features": ["Pre-Seasoned", "Even Heating", "Durable", "Multi-Cooktop"],
+      "inStock": true,
+      "badge": "Kitchen Essential"
+    },
+    {
+      "id": 27,
+      "name": "Vortex Gaming Mouse",
+      "brand": "GameTech",
+      "price": 79.99,
+      "originalPrice": 99.99,
+      "category": "Electronics",
+      "subcategory": "Computer Accessories",
+      "rating": 4.7,
+      "reviews": 956,
+      "image": "/images/vortex-gaming-mouse-1.png",
+      "images": [
+        "/images/vortex-gaming-mouse-1.png",
+        "/images/vortex-gaming-mouse-2.png"
+      ],
+      "description": "Precision gaming mouse with customizable DPI and RGB lighting.",
+      "features": [
+        "16000 DPI",
+        "RGB Lighting",
+        "Programmable Buttons",
+        "Ergonomic"
+      ],
+      "inStock": true,
+      "badge": "Gamer"
+    },
+    {
+      "id": 28,
+      "name": "Arctic Cooling Laptop Stand",
+      "brand": "CoolTech",
+      "price": 59.99,
+      "originalPrice": 79.99,
+      "category": "Electronics",
+      "subcategory": "Computer Accessories",
+      "rating": 4.6,
+      "reviews": 512,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=80"
+      ],
+      "description": "Ergonomic aluminum laptop stand designed to improve airflow and posture.",
+      "features": [
+        "Aluminum Build",
+        "Heat Dissipation",
+        "Adjustable Angle",
+        "Anti-Slip Pads"
+      ],
+      "inStock": true,
+      "badge": "Office"
+    },
+    {
+      "id": 29,
+      "name": "Nova Portable Bluetooth Speaker",
+      "brand": "SoundWave",
+      "price": 129.99,
+      "originalPrice": 159.99,
+      "category": "Electronics",
+      "subcategory": "Audio",
+      "rating": 4.7,
+      "reviews": 1456,
+      "image": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?w=600&q=80"
+      ],
+      "description": "Portable Bluetooth speaker with powerful bass and waterproof design.",
+      "features": ["Bluetooth 5.3", "Waterproof", "12h Battery", "Deep Bass"],
+      "inStock": true,
+      "badge": "Popular"
+    },
+    {
+      "id": 30,
+      "name": "Summit Hiking Backpack",
+      "brand": "TrailGear",
+      "price": 179.99,
+      "originalPrice": 219.99,
+      "category": "Accessories",
+      "subcategory": "Outdoor",
+      "rating": 4.7,
+      "reviews": 678,
+      "image": "/images/summit-hikingbackpack-1.png",
+      "images": ["/images/summit-hikingbackpack-1.png"],
+      "description": "Lightweight hiking backpack with breathable straps and multiple compartments.",
+      "features": [
+        "Water Resistant",
+        "Ergonomic Fit",
+        "Lightweight",
+        "40L Capacity"
+      ],
+      "inStock": true,
+      "badge": "Adventure"
+    },
+    {
+      "id": 31,
+      "name": "Fusion Smart Home Hub",
+      "brand": "HomeSync",
+      "price": 199.99,
+      "originalPrice": 249.99,
+      "category": "Electronics",
+      "subcategory": "Smart Home",
+      "rating": 4.5,
+      "reviews": 398,
+      "image": "https://images.unsplash.com/photo-1558002038-1055907df827?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1558002038-1055907df827?w=600&q=80"
+      ],
+      "description": "Control all smart home devices from a single intelligent hub.",
+      "features": [
+        "Voice Control",
+        "Multi-Device Support",
+        "Mobile App",
+        "Automation"
+      ],
+      "inStock": true,
+      "badge": "Smart"
+    },
+    {
+      "id": 32,
+      "name": "Apex Carbon Fiber Tripod",
+      "brand": "OptiCore",
+      "price": 219.99,
+      "originalPrice": 259.99,
+      "category": "Electronics",
+      "subcategory": "Camera Accessories",
+      "rating": 4.8,
+      "reviews": 420,
+      "image": "https://images.unsplash.com/photo-1510127034890-ba27508e9f1c?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1510127034890-ba27508e9f1c?w=600&q=80"
+      ],
+      "description": "Professional carbon fiber tripod for cameras and video equipment.",
+      "features": [
+        "Carbon Fiber",
+        "360° Rotation",
+        "Lightweight",
+        "Travel Friendly"
+      ],
+      "inStock": true,
+      "badge": "Pro"
+    },
+    {
+      "id": 33,
+      "name": "Vibe RGB Gaming Headset",
+      "brand": "GameTech",
+      "price": 109.99,
+      "originalPrice": 139.99,
+      "category": "Electronics",
+      "subcategory": "Gaming",
+      "rating": 4.6,
+      "reviews": 987,
+      "image": "https://images.unsplash.com/photo-1612444530582-fc66183b16f7?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1612444530582-fc66183b16f7?w=600&q=80"
+      ],
+      "description": "Immersive surround sound gaming headset with RGB lighting.",
+      "features": [
+        "7.1 Surround Sound",
+        "RGB Lighting",
+        "Noise Cancelling Mic",
+        "Comfort Cushions"
+      ],
+      "inStock": true,
+      "badge": "Gaming"
+    },
+    {
+      "id": 34,
+      "name": "AeroFit Yoga Mat",
+      "brand": "FlexCore",
+      "price": 49.99,
+      "originalPrice": 69.99,
+      "category": "Fitness",
+      "subcategory": "Yoga",
+      "rating": 4.7,
+      "reviews": 1330,
+      "image": "https://images.unsplash.com/photo-1599058917765-a780eda07a3e?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1599058917765-a780eda07a3e?w=600&q=80"
+      ],
+      "description": "Non-slip yoga mat designed for comfort and stability.",
+      "features": ["Non Slip", "Eco Material", "Extra Thick", "Lightweight"],
+      "inStock": true,
+      "badge": "Fitness"
+    },
+    {
+      "id": 35,
+      "name": "Zen Ceramic Tea Set",
+      "brand": "ArtisanHome",
+      "price": 119.99,
+      "originalPrice": 149.99,
+      "category": "Home",
+      "subcategory": "Kitchen",
+      "rating": 4.6,
+      "reviews": 256,
+      "image": "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?w=600&q=80"
+      ],
+      "description": "Elegant handcrafted ceramic tea set perfect for relaxing tea moments.",
+      "features": [
+        "Handcrafted",
+        "Heat Resistant",
+        "Elegant Design",
+        "Durable"
+      ],
+      "inStock": true,
+      "badge": "Artisan"
+    },
+    {
+      "id": 36,
+      "name": "Blaze Portable Gas Grill",
+      "brand": "GrillMaster",
+      "price": 249.99,
+      "originalPrice": 299.99,
+      "category": "Home",
+      "subcategory": "Outdoor Cooking",
+      "rating": 4.7,
+      "reviews": 389,
+      "image": "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=600&q=80"
+      ],
+      "description": "Compact gas grill ideal for outdoor cooking and camping trips.",
+      "features": [
+        "Portable",
+        "Fast Heating",
+        "Durable Steel",
+        "Easy Cleaning"
+      ],
+      "inStock": true,
+      "badge": "Outdoor"
+    },
+    {
+      "id": 37,
+      "name": "Lumen Smart LED Bulb",
+      "brand": "BrightNest",
+      "price": 29.99,
+      "originalPrice": 39.99,
+      "category": "Home",
+      "subcategory": "Lighting",
+      "rating": 4.5,
+      "reviews": 720,
+      "image": "/images/lumen-smart-LED-bulb-1.png",
+      "images": ["/images/lumen-smart-LED-bulb-1.png"],
+      "description": "Smart LED bulb with app control and customizable lighting scenes.",
+      "features": [
+        "WiFi Control",
+        "Color Changing",
+        "Energy Efficient",
+        "Voice Support"
+      ],
+      "inStock": true,
+      "badge": "Smart"
+    },
+    {
+      "id": 38,
+      "name": "Urban Classic Wrist Watch",
+      "brand": "ChronoCraft",
+      "price": 249.99,
+      "originalPrice": 299.99,
+      "category": "Fashion",
+      "subcategory": "Watches",
+      "rating": 4.7,
+      "reviews": 540,
+      "image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=600&q=80"
+      ],
+      "description": "Minimalist stainless steel wrist watch with sapphire glass.",
+      "features": [
+        "Sapphire Glass",
+        "Water Resistant",
+        "Stainless Steel",
+        "Classic Style"
+      ],
+      "inStock": true,
+      "badge": "Classic"
+    },
+    {
+      "id": 39,
+      "name": "Nimbus Wireless Mouse",
+      "brand": "KeyForge",
+      "price": 59.99,
+      "originalPrice": 79.99,
+      "category": "Electronics",
+      "subcategory": "Computer Accessories",
+      "rating": 4.6,
+      "reviews": 640,
+      "image": "/images/nimbus-wireless-mouse-1.png",
+      "images": ["/images/nimbus-wireless-mouse-1.png"],
+      "description": "Smooth wireless mouse with adjustable DPI and ergonomic design.",
+      "features": ["Wireless", "Adjustable DPI", "Silent Click", "Ergonomic"],
+      "inStock": true,
+      "badge": null
+    },
+    {
+      "id": 40,
+      "name": "Arctic Stainless Coffee Mug",
+      "brand": "PureSip",
+      "price": 34.99,
+      "originalPrice": 49.99,
+      "category": "Lifestyle",
+      "subcategory": "Drinkware",
+      "rating": 4.5,
+      "reviews": 302,
+      "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=600&q=80"
+      ],
+      "description": "Insulated stainless steel mug perfect for coffee lovers.",
+      "features": ["Insulated", "Leakproof", "Durable", "Eco Friendly"],
+      "inStock": true,
+      "badge": "Coffee"
+    },
+    {
+      "id": 41,
+      "name": "Terra Wooden Wall Clock",
+      "brand": "ArtisanHome",
+      "price": 99.99,
+      "originalPrice": 129.99,
+      "category": "Home",
+      "subcategory": "Decor",
+      "rating": 4.6,
+      "reviews": 187,
+      "image": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?w=600&q=80"
+      ],
+      "description": "Handcrafted wooden wall clock with minimalist design.",
+      "features": [
+        "Natural Wood",
+        "Silent Movement",
+        "Minimal Design",
+        "Durable"
+      ],
+      "inStock": true,
+      "badge": "Decor"
+    },
+    {
+      "id": 42,
+      "name": "Pulse Adjustable Dumbbells",
+      "brand": "FitCore",
+      "price": 299.99,
+      "originalPrice": 349.99,
+      "category": "Fitness",
+      "subcategory": "Gym Equipment",
+      "rating": 4.8,
+      "reviews": 890,
+      "image": "  /images/pulse-adjustable-dumbbells-1.png",
+      "images": [" /images/pulse-adjustable-dumbbells-1.png"],
+      "description": "Adjustable dumbbell set ideal for home workouts.",
+      "features": [
+        "Adjustable Weight",
+        "Space Saving",
+        "Durable Steel",
+        "Ergonomic Grip"
+      ],
+      "inStock": true,
+      "badge": "Fitness"
+    },
+    {
+      "id": 43,
+      "name": "AeroBook Ultra Slim Laptop",
+      "brand": "TechNova",
+      "price": 1299.99,
+      "originalPrice": 1499.99,
+      "category": "Electronics",
+      "subcategory": "Laptops",
+      "rating": 4.8,
+      "reviews": 742,
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&q=80"
+      ],
+      "description": "Ultra-slim high performance laptop designed for creators and professionals.",
+      "features": [
+        "16GB RAM",
+        "512GB SSD",
+        "14-inch Retina Display",
+        "All-day Battery"
+      ],
+      "inStock": true,
+      "badge": "Premium"
+    },
+    {
+      "id": 44,
+      "name": "SkyView 4K Action Camera",
+      "brand": "OptiCore",
+      "price": 349.99,
+      "originalPrice": 399.99,
+      "category": "Electronics",
+      "subcategory": "Cameras",
+      "rating": 4.7,
+      "reviews": 512,
+      "image": "/images/skyView-4K-action-camera-1.png",
+      "images": [
+        "/images/skyView-4K-action-camera-1.png"
+      ],
+      "description": "Rugged 4K action camera perfect for adventure sports and travel.",
+      "features": [
+        "4K Recording",
+        "Waterproof",
+        "Image Stabilization",
+        "Wide Angle Lens"
+      ],
+      "inStock": true,
+      "badge": "Adventure"
+    },
+    {
+      "id": 45,
+      "name": "Urban Leather Messenger Bag",
+      "brand": "CraftHouse",
+      "price": 189.99,
+      "originalPrice": 229.99,
+      "category": "Accessories",
+      "subcategory": "Bags",
+      "rating": 4.6,
+      "reviews": 398,
+      "image": "/images/urban-leather-messenger-bag-1.png",
+      "images": [
+        "/images/urban-leather-messenger-bag-1.png"
+      ],
+      "description": "Elegant leather messenger bag ideal for professionals and students.",
+      "features": [
+        "Genuine Leather",
+        "Laptop Sleeve",
+        "Adjustable Strap",
+        "Classic Design"
+      ],
+      "inStock": true,
+      "badge": "Elegant"
+    },
+    {
+      "id": 46,
+      "name": "Crystal Glass Table Lamp",
+      "brand": "BrightNest",
+      "price": 119.99,
+      "originalPrice": 149.99,
+      "category": "Home",
+      "subcategory": "Lighting",
+      "rating": 4.5,
+      "reviews": 211,
+      "image": "/images/crystal-glass-table-lamp-1.png",
+      "images": [
+        "/images/crystal-glass-table-lamp-1.png"
+      ],
+      "description": "Modern crystal table lamp designed to elevate your home interior.",
+      "features": [
+        "Crystal Base",
+        "Soft Lighting",
+        "Modern Design",
+        "Energy Efficient"
+      ],
+      "inStock": true,
+      "badge": "Decor"
+    },
+    {
+      "id": 47,
+      "name": "Pulse Smart Body Scale",
+      "brand": "FitCore",
+      "price": 99.99,
+      "originalPrice": 129.99,
+      "category": "Fitness",
+      "subcategory": "Health Devices",
+      "rating": 4.6,
+      "reviews": 630,
+      "image": "/images/pulse-smart-body-scale-1.png",
+      "images": [
+        "/images/pulse-smart-body-scale-1.png"
+      ],
+      "description": "Smart body scale that tracks weight, BMI, and body composition.",
+      "features": [
+        "BMI Tracking",
+        "Bluetooth Sync",
+        "Mobile App",
+        "Multiple Users"
+      ],
+      "inStock": true,
+      "badge": "Smart"
+    },
+    {
+      "id": 48,
+      "name": "AeroRide Electric Scooter",
+      "brand": "VoltEdge",
+      "price": 799.99,
+      "originalPrice": 899.99,
+      "category": "Electronics",
+      "subcategory": "Electric Vehicles",
+      "rating": 4.7,
+      "reviews": 455,
+      "image": "/images/aeroRide-electric-scooter-1.png",
+      "images": [
+        "/images/aeroRide-electric-scooter-1.png"
+      ],
+      "description": "High-performance electric scooter with long battery range.",
+      "features": ["40km Range", "25km/h Speed", "Foldable", "LED Display"],
+      "inStock": true,
+      "badge": "Trending"
+    },
+    {
+      "id": 49,
+      "name": "Zen Garden Indoor Fountain",
+      "brand": "ArtisanHome",
+      "price": 159.99,
+      "originalPrice": 189.99,
+      "category": "Home",
+      "subcategory": "Decor",
+      "rating": 4.5,
+      "reviews": 144,
+      "image": "/images/zen-garden-indoor-fountain-1.png",
+      "images": [
+        "/images/zen-garden-indoor-fountain-1.png"
+      ],
+      "description": "Relaxing indoor fountain designed to create a peaceful atmosphere.",
+      "features": [
+        "Soothing Water Flow",
+        "Modern Design",
+        "LED Lighting",
+        "Compact"
+      ],
+      "inStock": true,
+      "badge": "Relax"
+    },
+    {
+      "id": 50,
+      "name": "Vortex Pro Gaming Chair",
+      "brand": "GameTech",
+      "price": 399.99,
+      "originalPrice": 499.99,
+      "category": "Electronics",
+      "subcategory": "Gaming",
+      "rating": 4.8,
+      "reviews": 812,
+      "image": "https://images.unsplash.com/photo-1598300056393-4aac492f4344?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1598300056393-4aac492f4344?w=600&q=80"
+      ],
+      "description": "Ergonomic gaming chair with lumbar support and premium cushioning.",
+      "features": [
+        "Lumbar Support",
+        "Adjustable Armrests",
+        "Reclining Back",
+        "Premium Cushion"
+      ],
+      "inStock": true,
+      "badge": "Gaming"
     }
   ],
   "categories": [
